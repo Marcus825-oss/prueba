@@ -1,4 +1,4 @@
-¡Soy Marcus Rus pop
+¡Soy Marcus Rus pop, y hoy es miércoles
 
 Hola, este es mi primer archivo **markdown**
 # Los titulos se ponen con # y un espacio.
